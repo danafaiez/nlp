@@ -41,7 +41,9 @@ You also have the option to make plots such as the optimal transport matrix.
 ## Illustrations
    The following two imshow plots illustrate the WMD and BMD between every
    sentence pair in this list: 
-      
+
+![WMD imshow plot](github_plots/wmd_imshow1.png) 
+
   ["She ran across the yard to the edge of the woods where her brother waited.",
   "She walked across the yard to the edge of the woods where her brother waited.",
   "She walked across the lawn to the edge of the woods where her brother waited.",
@@ -58,6 +60,9 @@ You also have the option to make plots such as the optimal transport matrix.
    artificially crafted set of words; the first two plots include 4 sets of words which have to context, and
    the last plot includes only BERT embeddings (since Word2vec embeddings are not context dependent) with 2 sets of words similar to the previous set but embedded in 3 sentences.
    Principal component analysis (PCA) technique is used for dimensionality reduction.
+
+   [PCA_plots_noncontext_bert_w2v.py](https://github.com/danafaiez/nlp/blob/master/PCA_plots_nocontext_bert_w2v.py) and [PCA_plots_withcontext_bert.py](https://github.com/danafaiez/nlp/blob/master/PCA_plots_withcontext_bert_w2v.py)
+   are used to create these plots respectively.
 
    
      ![WMD PCA plot](github_plots/wmd_pca.png)
