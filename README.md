@@ -39,18 +39,20 @@ You also have the option to make plots such as the optimal transport matrix.
    ```
 
 ## Illustrations
-   The following two imshow plots illustrate the WMD and BMD between every
-   sentence pair in this list: 
+
+  The following two imshow plots illustrate the WMD and BMD between every two
+   sentences: 
+  
+  1. "She ran across the yard to the edge of the woods where her brother waited."
+  2. "She walked across the yard to the edge of the woods where her brother waited."
+  3. "She walked across the lawn to the edge of the woods where her brother waited."
+  4. "She walked across the lawn to the beginning of the woods where her brother waited."
+  5. "She walked across the lawn to the beginning of the forest where her brother waited."
+  6. "She walked across the lawn to the beginning of the forest where her sibling waited."
 
 ![WMD imshow plot](github_plots/wmd_imshow1.png) 
 ![BMD imshow plot](github_plots/bmd_imshow1.png) 
 
-  ["She ran across the yard to the edge of the woods where her brother waited.",
-  "She walked across the yard to the edge of the woods where her brother waited.",
-  "She walked across the lawn to the edge of the woods where her brother waited.",
-  "She walked across the lawn to the beginning of the woods where her brother waited.",
-  "She walked across the lawn to the beginning of the forest where her brother waited.",
-  "She walked across the lawn to the beginning of the forest where her sibling waited."]
      
 
 
