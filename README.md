@@ -49,9 +49,9 @@ You also have the option to make plots such as the optimal transport matrix.
   "She walked across the lawn to the beginning of the forest where her brother waited.",
   "She walked across the lawn to the beginning of the forest where her sibling waited."]
      
-     ![WMD imshow plot](google_wmd/github_plots/wmd_imshow1.png) 
+     ![WMD imshow plot](github_plots/wmd_imshow1.png) 
 
-     ![BMD imshow plot](google_wmd/github_plots/bmd_imshow1.png) 
+     ![BMD imshow plot](github_plots/bmd_imshow1.png) 
  
 
    The following plots are illustrations of Word2vec and BERT raw embedings of
@@ -60,9 +60,9 @@ You also have the option to make plots such as the optimal transport matrix.
    Principal component analysis (PCA) technique is used for dimensionality reduction.
 
    
-     ![WMD PCA plot](/google_wmd/github_plots/wmd_pca.png)
-     ![BMD PCA nocontext plot](google_wmd/github_plots/bmd_nocontext_pca.png)
-     ![BMD PCA context plot](google_wmd/github_plots/bmd_context_pca.png)
+     ![WMD PCA plot](github_plots/wmd_pca.png)
+     ![BMD PCA nocontext plot](github_plots/bmd_nocontext_pca.png)
+     ![BMD PCA context plot](github_plots/bmd_context_pca.png)
 
 
 
