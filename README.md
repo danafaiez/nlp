@@ -60,7 +60,7 @@ You also have the option to make plots such as the optimal transport matrix.
 ![BMD PCA context plot](github_plots/bmd_context_pca.png)   
 
 * This illustration is to compare the raw BERT and Word2Vec embeddings with human judgment on similarity of pairs of words embedded in a text. The plot shows the Euclidean distance between each pair of words and 1-(normalized average huamn rate)[human_rated_plot_BERT_W2V.py](https://github.com/danafaiez/nlp/blob/master/human_rated_plot_BERT_W2V.py).
-and [plot_human_rate_euc.py](https://github.com/danafaiez/nlp/blob/master/plot_human_rate_euc.py).
+and [plot_human_rate_euc.py](https://github.com/danafaiez/nlp/blob/master/plot_human_rate_euc.py). The values of Euclidean distance are scaled such that the range is [0,1].
 
 ![euclidean - human rate plot](github_plots/human_rate_euc.png)
 
