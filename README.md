@@ -16,15 +16,13 @@ preprocess them, finds the corresponding word vectors for each token (using Word
 as well as the frequencies of each unique word in each document. At the end, it computes the WMD between the two documents.
 You also have the option to make plots such as the optimal transport matrix.
 
-* The code implementing the WMD to BERT embeddings is available upson request. 
-
+* Most plot have a dependency on bmd.py which is the implementation of the WMD to BERT embeddings and is available upon request and contains a `TensorFlow 2.0`_ `Keras`_ implementation of
+   `google-research/bert` with support for loading of the original `pre-trained weights`.
 ## Prerequisites
    * Project is created using Python 3.6 and Google Cloud/Colab.
    * [Google's pretrained model](https://github.com/mmihaltz/word2vec-GoogleNews-vectors) is used for Word2Vec embeddings.
    * To run this project, install the following:
  
-   This repo contains a `TensorFlow 2.0`_ `Keras`_ implementation of
-   `google-research/bert` _with support for loading of the original `pre-trained weights`_
    
    ``` 
    $!pip install stop-words
