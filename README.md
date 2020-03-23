@@ -62,7 +62,7 @@ You also have the option to make plots such as the optimal transport matrix.
    Principal component analysis (PCA) technique is used for dimensionality reduction.
 ![WMD PCA plot](github_plots/wmd_pca.png)
 ![BMD PCA nocontext plot](github_plots/bmd_nocontext_pca.png)
-![BMD PCA context plot](github_plots/bmd_context_pca.png =250x250)   
+![BMD PCA context plot](github_plots/bmd_context_pca.png | width=100)   
 
  [PCA_plots_noncontext_bert_w2v.py](https://github.com/danafaiez/nlp/blob/master/PCA_plots_nocontext_bert_w2v.py) and [PCA_plots_withcontext_bert.py](https://github.com/danafaiez/nlp/blob/master/PCA_plots_withcontext_bert_w2v.py)
    are used to create these plots.
