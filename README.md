@@ -43,6 +43,7 @@ You also have the option to make plots such as the optimal transport matrix.
    sentence pair in this list: 
 
 ![WMD imshow plot](github_plots/wmd_imshow1.png) 
+![BMD imshow plot](github_plots/bmd_imshow1.png) 
 
   ["She ran across the yard to the edge of the woods where her brother waited.",
   "She walked across the yard to the edge of the woods where her brother waited.",
@@ -51,10 +52,7 @@ You also have the option to make plots such as the optimal transport matrix.
   "She walked across the lawn to the beginning of the forest where her brother waited.",
   "She walked across the lawn to the beginning of the forest where her sibling waited."]
      
-     ![WMD imshow plot](github_plots/wmd_imshow1.png) 
 
-     ![BMD imshow plot](github_plots/bmd_imshow1.png) 
- 
 
    The following plots are illustrations of Word2vec and BERT raw embedings of
    artificially crafted set of words; the first two plots include 4 sets of words which have to context, and
