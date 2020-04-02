@@ -67,7 +67,7 @@ reference sentence; each color represent a different movie and are organized
 such that, starting from the first one, every other movie is chosen to be of
 genre [thriller, crime, horror] while others are chosen such that they are not
 of the mentioned genre. The two chosen reference documents for these plots can
-be found in [readme_movie_refdoc.txt](/Users/danafaiez/Desktop/nlp_projects/nlp/readme_movie_refdoc.txt).
+be found in [readme_movie_refdoc.txt](https://github.com/danafaiez/nlp/blob/master/readme_movie_refdoc.txt).
 
 ![Movie plot1  nocontext plot](github_plots/movieplotS.png)
 ![Movie plot2 context plot](github_plots/movieplotP.png)   
@@ -90,13 +90,17 @@ in Hawkins' truck, probably still alive, in a dark refrigerated compartment,
 
 This type of plot can be used to track any dialogue while comparing its context
 to a chosen reference document. For instance, the movie 'detroit rock city' in the right plot is considered of the genre [comedy, music] and yet 
-has a few lines that seems to be similar to the chosen reference in [readme_movie_refdoc.txt](readme_movie_refdoc.txt). The lines of the movie are:
+has a few lines that seems to be similar to the chosen reference in [readme_movie_refdoc.txt](https://github.com/danafaiez/nlp/blob/master/readme_movie_refdoc.txt). 
+The lines of the movie are:
 
 "So, you see if it wasn't for me, me and my **friends** would be at that KISS
 concert right now... together.. Just one, **Father**, but **boy** was it a doozy..
 Prepare to receive the Act of Penance. How many sins have you **committed** since
 your last **confession**?. Forgive me, **Father**, for I have **sinned**. This is my first
 **confession** in... well... a really long time."
+
+The similarity of these lines to the reference is most likely due to the
+existance words in bold.
 
 ## Collaborator
    This project is in collaboration with [Drew Bischel](https://github.com/cognagent).
