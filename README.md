@@ -67,7 +67,7 @@ reference sentence; each color represent a different movie and are organized
 such that, starting from the first one, every other movie is chosen to be of
 genre [thriller, crime, horror] while others are chosen such that they are not
 of the mentioned genre. The two chosen reference documents for these plots can
-be found in [readme_movie_refdoc.txt](readme_movie_refdoc.txt).
+be found in [readme_movie_refdoc.txt](/Users/danafaiez/Desktop/nlp_projects/nlp/readme_movie_refdoc.txt).
 
 ![Movie plot1  nocontext plot](github_plots/movieplotS.png)
 ![Movie plot2 context plot](github_plots/movieplotP.png)   
