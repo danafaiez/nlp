@@ -62,6 +62,17 @@ and [plot_human_rate_euc.py](https://github.com/danafaiez/nlp/blob/master/plot_h
 
 ![euclidean - human rate plot](github_plots/human_rate_euc.png)
 
+* In the follwong two plots, the similarity between every k movie lines and a
+reference sentence; each color represent a different movie and are organized
+such that, starting from the first one, every other movie is chosen to be of
+genre [thriller, crime, horror] while others are chosen such that they are not
+of the mentioned genre. The two chosen reference documents for these plots can
+be found in readme_movie_refdoc.txt.
+
+![Movie plot1  nocontext plot](github_plots/movie_refS.png)
+![Movie plot2 context plot](github_plots/movie_refP.png)   
+
+
 ## Collaborator
    This project is in collaboration with [Drew Bischel](https://github.com/cognagent).
 
